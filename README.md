@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">
 Stranger Things Frontend Project
-  <span> ( 🇧🇷 )  </span>
+  <span> (🇧🇷)  </span>
 </h1>
 
 <br>
